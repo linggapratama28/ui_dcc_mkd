@@ -1,0 +1,8 @@
+/.venv
+/.vscode
+/dcc-mkd.json
+/import_dccmkd.py
+/service_account_dcc-mkd.json
+/static
+/templates
+/test.ipynb
